@@ -93,10 +93,10 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/c8308047-720e-45a9-8abc-9386d44deeaa)
+![image](https://github.com/user-attachments/assets/b4b07641-36aa-4848-bac5-53ca2a459440)
+![image](https://github.com/user-attachments/assets/836834ae-1140-4fe9-8b5b-f3c32b45aafe)
+![image](https://github.com/user-attachments/assets/150c92f0-56ab-4d7f-8368-1b3585d4a1de)
 
-
-![image](https://github.com/user-attachments/assets/ce80ce1b-ce15-4bf4-b1de-ea5240b8613b)
 
 
 ## RESULT
